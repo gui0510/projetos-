@@ -1,13 +1,13 @@
 header {
-    min-height: 100px;
+    min-height: 120px;
     text-align: center;
-    background-color: #87CEEB;
+    background-color:  	#9e9a94;
 }
 
 h1 {
 text-align: center;
 font-size: 30px;
-color: #0b0b9d;
+color: #000000;
 border:3px dashed rgba(13, 10, 6, 0);
 padding: 10px;
 margin: 10px;
